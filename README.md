@@ -8,7 +8,8 @@ A lightweight Python script to perform dictionary-based brute force attacks on N
    git clone https://github.com/Mj-TRK-001/NTLM_Hash_Cracker.git
    cd NTLM_Hash_Cracker
    python3 NTLMCracker.py
-   
+---
+   ```bash
 ## **Example :**
 Enter The NTLM Hash To Crack: 8846f7eaee8fb117ad06bdd830b7586c
 Enter The Path To The WordList File : Path To WordList File
